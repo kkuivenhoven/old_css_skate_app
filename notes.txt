@@ -1,0 +1,3 @@
+*** If drop table in database and run into problems with migrating the database on heroku ***
+	1. Run 'heroku rake run db:schema:load'
+				---- but don't do this in production as it'll remove database entries! ----

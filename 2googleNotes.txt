@@ -1,0 +1,31 @@
+Pick cloud project to use: 
+ [1] sigma-freedom-185614
+ [2] Create a new project
+Please enter numeric choice or text value (must exactly match list 
+item):  1
+
+Your current project has been set to: [sigma-freedom-185614].
+
+API [compute.googleapis.com] not enabled on project [378370428527]. 
+Would you like to enable and retry?  (Y/n)?  Y
+
+Do you want to configure Google Compute Engine 
+(https://cloud.google.com/compute) settings (Y/n)?  n
+
+Created a default .boto configuration file at [/Users/kendrakuivenhoven/.boto]. See this file and
+[https://cloud.google.com/storage/docs/gsutil/commands/config] for more
+information about configuring Google Cloud Storage.
+Your Google Cloud SDK is configured and ready to use!
+
+* Commands that require authentication will use kkuivenhoven@mail.csuchico.edu by default
+* Commands will reference project `sigma-freedom-185614` by default
+Run `gcloud help config` to learn how to change individual settings
+
+This gcloud configuration is called [default]. You can create additional configurations if you work with multiple accounts and/or projects.
+Run `gcloud topic configurations` to learn more.
+
+Some things to try next:
+
+* Run `gcloud --help` to see the Cloud Platform services you can interact with. And run `gcloud help COMMAND` to get help on any gcloud command.
+* Run `gcloud topic -h` to learn about advanced features of the SDK like arg files and output formatting
+
